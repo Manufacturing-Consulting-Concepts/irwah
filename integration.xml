@@ -1,0 +1,5 @@
+<integration>
+    <name>custom-telegram</name>
+    <rule_id>3</rule_id>
+    <alert_format>json</alert_format>
+</integration>
